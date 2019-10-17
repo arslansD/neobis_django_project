@@ -1,0 +1,16 @@
+li a {
+    font-size: 20px;
+    color: purple;
+}
+
+body {
+    color: white;
+    background-image: url("/static/filipp.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.main-content{
+    transform: translateY(50%);
+
+}
